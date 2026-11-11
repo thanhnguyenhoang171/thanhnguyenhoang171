@@ -16,7 +16,7 @@ I am a 23-year-old Computer Science graduate and a passionate **Software Enginee
 *   **Backend:** Node.js (NestJS, ExpressJS), Java (Spring Boot), Go, Django
 *   **Frontend:** React, React Router 7, Next.js, Tailwind CSS
 *   **Database & Caching:** PostgreSQL, MySQL, MongoDB, Redis
-*   **DevOps & Deployment:** Docker, GitHub Actions CI/CD, Nginx, Cloudflare, Vercel, Render, Self-hosted Linux Servers (thanhnguyenserver)
+*   **DevOps & Deployment:** Docker, GitHub Actions CI/CD, Nginx, Cloudflare, Vercel, Render, Self-hosted Linux Servers
 *   **AI Integration:** TensorFlow, Keras, PhoBERT, Scikit-learn, Local AI workflows (LM Studio)
 
 ## 🚀 Featured Projects
@@ -36,7 +36,6 @@ I am a 23-year-old Computer Science graduate and a passionate **Software Enginee
 
 - 🔗 **Portfolio / Web Node:** [thanhnguyenserver.io.vn](https://thanhnguyenserver.io.vn)
 - 📧 **Contact:** thanhnguyenhoang171official@gmail.com
-- 💼 **LinkedIn:** *(Thêm link LinkedIn của bạn vào đây)*
 
 ---
 ⭐️ *From **Nguyễn Hoàng Thanh** with passion for code.*
