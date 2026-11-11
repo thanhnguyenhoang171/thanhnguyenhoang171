@@ -1,41 +1,79 @@
+
 # Hi there, I'm Nguyễn Hoàng Thanh 👋
 
-I am a 23-year-old Computer Science graduate and a passionate **Software Engineer**. I specialize in building scalable web applications, robust backend architectures, and seamless user interfaces. With a strong foundation in system design and research, I am dedicated to delivering high-performance and maintainable software solutions.
+I am a Computer Science graduate and a passionate **Software Engineer** with experience in full-stack development, system architecture, and building scalable web applications. I specialize in developing modern frontend applications with React, Next.js, and building robust backend systems using Go (Golang), Node.js, and Java Spring Boot.
+
+I enjoy exploring new technologies, solving complex technical problems, and continuously improving software performance, maintainability, and reliability.
 
 ## 💼 Experience
 
-- 💻 **Software Engineer (Full-stack)** @ **Enjoy Sport** 
-  *(Building high-traffic ticketing platforms, optimizing on-site check-in systems, and developing the SPOTO photo platform).*
-- 🌐 **Full-stack Developer** @ **689Cloud Solutions** 
-  *(Migrated systems to Next.js 15 & Spring Boot 3, optimized SEO, and improved data caching for a digital reading platform).*
-- ⚙️ **Backend Developer Intern** @ **Perception Technology Solutions**
+- 💻 **Software Engineer (Full-stack)** @ **Enjoy Sport Corporation** *(Mar 2026 – Present)*
+  - Developed and maintained high-traffic e-commerce ticketing platforms using Next.js, Golang, and Laravel.
+  - Optimized real-time check-in systems using Next.js and NestJS for large-scale sporting events.
+  - Led frontend development of the SPOTO photo platform, architecting the User Control Panel from scratch.
+  - Implemented authentication, event and album management, and multi-tier subscription billing.
+  - Optimized asynchronous file uploads, client-side data handling, and system performance.
+  - Managed remote server environments and provided on-site technical support during sporting events.
+
+- 🌐 **Full-stack Developer Intern/Fresher** @ **689Cloud Solutions** *(Sep 2025 – Jan 2026)*
+  - Contributed to the Unlimited Reading Subscription System, a paid digital reading platform for the Japanese market.
+  - Migrated the frontend from React 16 to Next.js 15, improving SEO, routing, and application performance.
+  - Upgraded backend services from Spring Boot 2 to Spring Boot 3.
+  - Migrated the scheduler module into an independent service using Quarkus.
+  - Researched and proposed performance improvements involving SEO optimization and data caching.
+  - Participated in developing the Booking Tour Web project.
+
+- ⚙️ **Backend Developer Intern** @ **Perception Technology Solutions** *(Oct 2024 – Jan 2025)*
+  - Contributed to the development of a biodiversity management system for U Minh Thuong National Park.
+  - Developed backend CRUD functionalities using Express.js and PostgreSQL.
+  - Implemented image upload and data management functionalities.
 
 ## 🛠️ Tech Stack & Tools
 
-*   **Languages:** JavaScript, TypeScript, Java, Python, Go
-*   **Backend:** Node.js (NestJS, ExpressJS), Java (Spring Boot), Go, Django
-*   **Frontend:** React, React Router 7, Next.js, Tailwind CSS
-*   **Database & Caching:** PostgreSQL, MySQL, MongoDB, Redis
-*   **DevOps & Deployment:** Docker, GitHub Actions CI/CD, Nginx, Cloudflare, Vercel, Render, Self-hosted Linux Servers
-*   **AI Integration:** TensorFlow, Keras, PhoBERT, Scikit-learn, Local AI workflows (LM Studio)
+* **Languages:** JavaScript, TypeScript, Java, Python, Go (Golang)
+* **Backend:** Node.js (NestJS, Express.js), Java (Spring Boot), Go, Django, Laravel
+* **Frontend:** React.js, React Router 7, Next.js, HTML5, CSS3, Tailwind CSS
+* **State Management:** Redux Toolkit, Zustand, TanStack Query
+* **Database & Caching:** PostgreSQL, MySQL, MongoDB, Redis, SQLite
+* **DevOps & Deployment:** Docker, Docker Compose, Git, GitHub Actions, GitLab, Nginx, Cloudflare, Self-hosted Linux Servers
+* **AI & Machine Learning:** TensorFlow, Keras, PhoBERT, Scikit-learn
 
 ## 🚀 Featured Projects
 
-*   **SPOTO (Photo Platform):** Architected the User Control Panel from scratch using React Router 7. Implemented authentication, event management, and a multi-tier subscription billing system.
-*   **CineChat:** A comprehensive monorepo project featuring administrative and user consoles.
-*   **ECP:** A personal software repository handling warehouse and SKU management logic, streamlined with automated GitHub Actions CI/CD workflows.
-*   **AI-Based User Behavior Evaluation:** Designed a CNN-based facial emotion recognition model and trained a Vietnamese textual sentiment analysis model (PhoBERT) to evaluate customer reactions.
+* **SPOTO (Photo Platform):** Led frontend development and architected the User Control Panel from scratch using Next.js. Implemented authentication, event and album management, and a multi-tier subscription billing system.
 
-## 🏆 Honors & Research
+* **AI-Based User Behavior Evaluation:** Developed a full-stack application integrating CNN-based facial emotion recognition and Vietnamese sentiment analysis using PhoBERT to evaluate customer reactions in food and beverage experiences.
+  - Repository: [emo_website](https://github.com/thanhnguyenhoang171/emo_website)
 
-- **First Prize** – Scientific Research Student Competition (HCMOU): *Hybrid AI Model for User Emotion Recognition in F&B.*
-- **Second Prize** – Scientific Research Student Competition (HCMOU): *An Approach for Traffic Sign Recognition.*
-- Published **2 scientific papers** in the *Ho Chi Minh City Open University Journal of Science – Engineering and Technology* (2025).
+* **Smartphone Recommendation Website:** Built an e-commerce platform using Django and MySQL, integrating a collaborative filtering recommendation system with Scikit-learn.
+  - Repository: [EcomRecommendWeb](https://github.com/thanhnguyenhoang171/EcomRecommendWeb)
 
-## 🌐 Connect with me
+* **ECP (E-Commerce Platform):** Personal software development project focused on e-commerce operations, warehouse management, SKU management, and backend system architecture.
 
-- 🔗 **Portfolio / Web Node:** [thanhnguyenserver.io.vn](https://thanhnguyenserver.io.vn)
-- 📧 **Contact:** thanhnguyenhoang171official@gmail.com
+* **CineChat:** A monorepo-based application featuring administrative and user-facing interfaces.
+
+## 🏆 Honors & Awards
+
+- 🥇 **First Prize** – Scientific Research Student Competition (Jun 2025), Ho Chi Minh City Open University.
+  - Project: *Hybrid AI Model for User Emotion Recognition in F&B.*
+
+- 🥈 **Second Prize** – Scientific Research Student Competition (Dec 2024), Ho Chi Minh City Open University.
+  - Project: *An Approach for Traffic Sign Recognition.*
+
+## 📚 Publications
+
+1. **An Approach for Traffic Sign Recognition** (2025). Ho Chi Minh City Open University Journal of Science – Engineering and Technology, Vol. 15, No. 1, pp. 58–67.
+   - DOI: [10.46223/HCMCOUJS.tech.en.15.1.3350.2025](https://doi.org/10.46223/HCMCOUJS.tech.en.15.1.3350.2025)
+
+2. **Hybrid AI Model for User Emotion Recognition in F&B** (2025). Ho Chi Minh City Open University Journal of Science – Engineering and Technology, Vol. 17, No. 1.
+   - DOI: [10.46223/HCMCOUJS.tech.en.17.1.4396.2027](https://doi.org/10.46223/HCMCOUJS.tech.en.17.1.4396.2027)
+
+## 🌐 Connect with Me
+
+- 🌍 **Portfolio / Personal Server:** [thanhnguyenserver.io.vn](https://thanhnguyenserver.io.vn)
+- 💻 **GitHub:** [thanhnguyenhoang171](https://github.com/thanhnguyenhoang171)
+- 📧 **Email:** [thanhnguyenhoang171official@gmail.com](mailto:thanhnguyenhoang171official@gmail.com)
 
 ---
-⭐️ *From **Nguyễn Hoàng Thanh** with passion for code.*
+
+⭐️ *Building, learning, and creating software with passion.*
